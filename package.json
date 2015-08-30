@@ -18,7 +18,7 @@
   "author": "Sergey Romanov",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "fc46075a07e08b1796f959c6562d851acce00751",
+  "gitHead": "4559e25506a95fabef0f738207518547b17a0c84",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-less": "~0.7.0",
