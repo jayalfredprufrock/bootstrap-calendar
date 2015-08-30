@@ -6,6 +6,7 @@
     "./js/calendar.js"
   ],
   "scripts": {
+    "test": ""
   },
   "repository": {
     "type": "git",
